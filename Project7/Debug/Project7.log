@@ -1,0 +1,9 @@
+﻿  Source.cpp
+D:\visual studio 2\Project7\Project7\Source.cpp(13,2): error C2065: cout: необъявленный идентификатор
+D:\visual studio 2\Project7\Project7\Source.cpp(13,18): error C2065: cin: необъявленный идентификатор
+D:\visual studio 2\Project7\Project7\Source.cpp(14,2): error C2065: cout: необъявленный идентификатор
+D:\visual studio 2\Project7\Project7\Source.cpp(14,18): error C2065: cin: необъявленный идентификатор
+D:\visual studio 2\Project7\Project7\Source.cpp(15,2): error C2065: cout: необъявленный идентификатор
+D:\visual studio 2\Project7\Project7\Source.cpp(15,18): error C2065: cin: необъявленный идентификатор
+D:\visual studio 2\Project7\Project7\Source.cpp(16,2): error C2065: cout: необъявленный идентификатор
+D:\visual studio 2\Project7\Project7\Source.cpp(16,28): error C2065: endl: необъявленный идентификатор
